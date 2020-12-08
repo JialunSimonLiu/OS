@@ -7,11 +7,16 @@ Derivitions are demonstrated in the paper, "Perturbed oscillator strengths in on
 
 **Unperturbed OS of the hydrogen atom**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/Unperturbed.png)
+
 **OS of the hydrogen atom with NZE**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/NZE.png) 
+
 **OS of the hydrogen atom with IZE**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/IZE.png) 
+
 **OS of the hydrogen atom with AZE**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/AZE.png) 
+
 **Potential of hydrogen-like atoms**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/potential%20for%20Hydrogen-like%20atoms.png) 
+
