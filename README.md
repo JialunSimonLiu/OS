@@ -7,7 +7,7 @@ The analytical/numerical solutions of the Oscillator strength (OS) and its pertu
 **How to run the codes?** Run the file, Perturbation models for Hydrogen.ipynb to achieve the numerical solutions.
 
 **Analytical results:**
-Derivitions are demonstrated in the paper, "Perturbed oscillator strengths in one electron system atoms".
+Derivations are demonstrated in the paper, "Perturbed oscillator strengths in one electron system atoms".
 
 **Unperturbed OS of the hydrogen atom**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/Unperturbed.png)
