@@ -4,6 +4,7 @@ The numerical/analytical solutions of the Oscillator strength (OS) and its pertu
 
 **Analytical results:**
 Derivitions are demonstrated in the paper, "Perturbed oscillator strengths in one electron system atoms".
+
 **Unperturbed OS of the hydrogen atom**
 ![Alt Text](https://github.com/JialunSimonLiu/Oscillator-Strength/blob/main/Pictures(main%20equations)/Unperturbed.png)
 **OS of the hydrogen atom with NZE**
